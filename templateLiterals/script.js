@@ -1,0 +1,1 @@
+console.log(`hey my code is ${1000} lines long and ${5} + ${5} is also ${10}`)
